@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohityewale880&label=Profile%20views&color=0e75b6&style=flat" alt="rohityewale880" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohityewale880" alt="rohityewale880" /></a> </p>
-<img aline="right" alt="Coding" width="400" src="https://tenor.com/search/developer-gifs">
+<img aline="right" alt="Coding" width="400" src="https://github.com/RohitYewale880/RohitYewale880/blob/main/img%20animated.png?raw=true">
 - 🌱 I’m currently learning **Web Development, C_Sharp.Net**
 
 - 💬 Ask me about **JavaScript, CPP.**
