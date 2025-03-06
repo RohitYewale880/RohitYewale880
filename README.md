@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohityewale880" alt="rohityewale880" /></a> </p>
 
-<div>
 - 🌱 I’m currently learning **Web Development, C_Sharp.Net**
 
 - 💬 Ask me about **JavaScript, CPP.**
@@ -13,9 +12,6 @@
 - 📫 How to reach me **rohityewale2020@gmail.com**
 
 - ⚡ Fun fact **👀😅**
-
-<img aline="right" alt="Coding" width="400" src="https://github.com/RohitYewale880/RohitYewale880/blob/main/img%20animated.png?raw=true">
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
