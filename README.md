@@ -13,7 +13,7 @@
 
 -  😂 Pronouns **He/She**
 
-- ⚡ Fun fact **I am Very Good Singer😅**
+- ⚡ Fun fact **I am Very Good Singer For some reason😅**
 
 
 <h3 align="left">Connect with me:</h3>
