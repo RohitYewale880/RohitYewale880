@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,C++, Web and .Net development and also driving into new framework.**
 
-- 💬 Ask me about **Anything..**
+- 💬 Ask me about **Anything.**
 
 - 📫 Reach me at **rohityewale2020@gmail.com**
 
